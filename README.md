@@ -33,6 +33,13 @@ Developed and maintained by:
 
 **Anonymat Labs**
 
+# ⚡ Quick Install
+
+Install everything with one command:
+
+```bash
+curl -fsSL https://raw.githubusercontent.com/AnonymatLabs/android-build-environment/main/install.sh | bash
+
 ---
 
 # ✨ Features
