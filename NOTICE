@@ -1,0 +1,35 @@
+Android Build Environment v2 PRO
+Copyright 2026 Anonymat Labs
+
+
+This project is licensed under the Apache License, Version 2.0.
+
+
+Project:
+Android Build Environment v2 PRO
+
+
+Developer:
+Anonymat Labs
+
+
+Repository:
+https://github.com/AnonymatLabs/android-build-v2-pro
+
+
+Description:
+An automated Android development environment installer for Termux.
+It installs and configures Android SDK, OpenJDK, Gradle, Build Tools,
+and required components for building Android applications.
+
+
+Third-party components:
+
+This project uses third-party software distributed under their own
+licenses, including but not limited to:
+
+- Android SDK Tools
+- OpenJDK
+- Gradle
+
+Each third-party component remains licensed by its respective owners.
